@@ -1,0 +1,23 @@
+{
+  "name": "shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aacheng2000/node-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aacheng2000/node-shell/issues"
+  },
+  "homepage": "https://github.com/aacheng2000/node-shell#readme"
+}
